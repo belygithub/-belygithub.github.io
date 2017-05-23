@@ -1,0 +1,28 @@
+移动应用开发：
+1.集成开发平台升级：Android Studio（Android），Swift（iOS）;
+2.应用开发组件化并逐步优化：网络请求组件（包括wifi、BLE）、消息推送、数据库操作等；
+3.网络通信标准及安全技术应用，提升智能家居网络通讯安全机制，统一网络通讯协议标准；
+4.优化语音识别与语音合成，导入语音交互技术；
+5.持续强化软件开发流程，单元测试覆盖所有新开发的应用和功能模块；
+6.导入游戏引擎技术（如cocos2d），图片渲染技术，提升产品移动终端应用的趣味性；
+7.homekit应用
+ 
+嵌入式应用技术：
+IoT技术方案应用	WiFi	Realtek RTL8711（WiFi SoC）
+Marvell MW30x(低成本网关)
+BLE（BT5.0标准，BLE mesh及beacon位置信标）	Realtek RTL8726(语音传输）
+CSR Mesh（组网控制）
+ST BlueNRG-1（低成本BLE SoC）
+iBeacon技术应用
+Zigbee	标准HA的应用
+zigbee标准模块
+基于zigbee设备的thread技术应用
+Gateway	低端物联网关方案Freescale i.MX6UL（Linux平台，QT）
+高端物联方案（Marvell iAP220，Android）
+Camera	p2p网络监控摄像头
+LPWAN	NB-IOT方案应用
+NFC	智能家居应用（配对、组网与信息识别）
+嵌入式应用开发	QT开发平台	基于windows及Linux的应用开发
+网络标准通信应用	基于socket、websocket、MQTT等协议开发标准组件
+控制类产品应用	工业控制	AIO-First二代
+多轴控制器	三轴平衡飞行控制
